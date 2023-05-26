@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "q+KBLjgjle7ed734LPzB8iYYhu3kIfh1Z9svGZtpmVRIaid2Vk6UvnsC1dkTTxsrC+KSjsueRe/TOCuwb0oBzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pikse\\Downloads\\ChatGPT-Integration-master\\ChatGPT-Integration-master\\ChatGPT-Integration\\ChatGPT-Integration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pikse\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\pikse\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\pikse\\.nuget\\packages\\openai\\1.4.0\\openai.1.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
